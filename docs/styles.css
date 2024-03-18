@@ -26,6 +26,13 @@ body {
   bottom: 0;
 }
 
+.anchor {
+  text-decoration: None;
+  font-weight: bold; 
+  color:aquamarine;
+  cursor: pointer;
+}
+
 .advice {
   display: flex;
   height: 50vh;
